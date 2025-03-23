@@ -87,7 +87,7 @@ export default function Perfil() {
           <div className="flex justify-start gap-5 -mt-96 absolute">
         </div>
         </div> 
-        <div className="flex justify-start gap-5 -mt-96 ">
+        <div className="flex justify-start gap-5 -mt-96">
 
         </div>
         <div className="flex flex-row  justify-center gap-2 p-5 -mt-52 text-xs">
