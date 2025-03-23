@@ -1,0 +1,18 @@
+"use client";
+import Menu from '../componentes/Menu';
+import { useState } from 'react';
+
+  
+
+
+export default function Actividad() {
+   return (
+     
+        
+    
+       
+     
+    
+   );
+}
+
